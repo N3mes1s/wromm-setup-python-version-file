@@ -1,6 +1,6 @@
 {
   "name": "setup-python-version-file-repro",
-  "runtimes": [],
+  "runtimes": [{"name": "python", "version": "3.13"}],
   "system_packages": ["git", "curl", "ca-certificates", "xz-utils"],
   "services": [],
   "ports": [],
