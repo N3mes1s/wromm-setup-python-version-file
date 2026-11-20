@@ -1,0 +1,8 @@
+{
+  "name": "setup-python-version-file-repro",
+  "runtimes": [],
+  "system_packages": ["git", "curl", "ca-certificates"],
+  "services": [],
+  "ports": [],
+  "env": {}
+}
